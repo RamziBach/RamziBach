@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋👋👋
+<h1>I'm Ramzi <img src="https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif" width="50"></h1>
 
 <!--
 **RamziBach/RamziBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
