@@ -5,7 +5,7 @@ I'm a JavaScript developer passionate about teaching and building projects that 
 My approach to programming is rooted in communication, where I believe programming is the collaborative authoring of ideas among human programmers where code communicates the intent of the author to other human programmers.
 
 Some stuff I worked on that I think you’ll like.
-- [Slaying The Dragon](https://slayingthedragon.io)
+- [slayingthedragon.io](https://slayingthedragon.io)
 - [CSS Full Course](https://slayingthedragon.io/dashboard/css/introduction)
 - [JS Full Course](https://slayingthedragon.io/dashboard/js/javascript-is-everywhere)
 - [YouTube Channel](https://youtube.com/@slayingthedragon)
