@@ -1,8 +1,10 @@
 ![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
 # Hello, World! :milky_way:
-I'm a JavaScript enthusiast interested in making code more understandable. I create courses and content, breaking down tricky concepts into clear, human-friendly lessons.
+Hi! I'm Ramzi, and I like to make software, videos, and courses.
 
-My approach to programming is rooted in communication, where I believe programming is the collaborative authoring of ideas among human programmers where code communicates the intent of the author to other human programmers.
+I'm the creator of [slayingthedragon.io](https://slayingthedragon.io)! Outside of that, I am a web developer, JavaScript evangelist, content creator, and youtuber. I enjoy video editing, sucking at blender, hanging out with my friends and family, and reading in my free time.
+
+You should subscribe to my [YouTube channel](https://youtube.com/@slayingthedragon)!
 
 Some stuff I worked on that I think you’ll like.
 - [slayingthedragon.io](https://slayingthedragon.io) (private repo)
