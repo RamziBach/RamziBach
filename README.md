@@ -8,7 +8,7 @@ You should subscribe to my [YouTube channel](https://youtube.com/@slayingthedrag
 
 Some stuff I worked on that I think you’ll like.
 - [slayingthedragon.io](https://slayingthedragon.io) (private repo)
-- [Portfolio](https://ramzibach.dev/) ([repo](https://github.com/RamziBach/Portfolio))
+- [Portfolio](https://ramzibach.dev/) ([public repo](https://github.com/RamziBach/Portfolio))
 - [CSS Full Course](https://slayingthedragon.io/dashboard/css/introduction)
 - [JS Full Course](https://slayingthedragon.io/dashboard/js/javascript-is-everywhere)
 - [YouTube Channel](https://youtube.com/@slayingthedragon)
