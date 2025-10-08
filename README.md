@@ -1,5 +1,4 @@
-![Barney Stinson alt](https://media.giphy.com/media/vTxWtmX2b0oH6/giphy.gif)
-# Hello, World! :milky_way:
+# Ramzi Bach - Front-End Web Developer 🐉
 Hi! I'm Ramzi, and I like to make software, videos, and courses.
 
 I'm the creator of [slayingthedragon.io](https://slayingthedragon.io)! Outside of that, I am a web developer, JavaScript evangelist, content creator, and youtuber. I enjoy video editing, sucking at blender, hanging out with my friends and family, and reading in my free time.
